@@ -1,2 +1,0 @@
-# kanbanik
-Default Kanbanik Repository
